@@ -1,0 +1,6 @@
+22,8,2022
+https://github.com/altmany/export_fig
+
+% This is used for figure exporting.
+export_fig test.png -m2.5  
+% -m2 produces an image double the size (in pixels) of the on screen figure
